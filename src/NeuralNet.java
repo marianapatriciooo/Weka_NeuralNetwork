@@ -47,11 +47,11 @@ public class NeuralNet {
 
 	
 	public static void main(String[] args) {
-		String filepath = "D:\\Faculdade\\IT4BI master\\2nd year\\Data mining and machine learning\\1 - neural networks and svm\\assignment\\data\\data-chessboard.arff";
+		String filepath = "D://Galicia//Documents//IT4BI//ECP//DMML//data-chessboard.arff";
 
 		simpleWekaTrain(filepath);
 	}
 	
 	//http://stackoverflow.com/questions/28694971/using-neural-network-class-in-weka-in-java-code
-	
+	//Jorge's Comment :)
 }
