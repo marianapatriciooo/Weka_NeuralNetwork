@@ -35,6 +35,7 @@ public class NeuralNet {
 	    System.out.println(eval2.errorRate()); //Printing Training Mean root squared Error
 	    System.out.println(eval2.toSummaryString()); //Summary of Training
 
+//comment
 	}
 	catch(Exception ex){
 	ex.printStackTrace();
